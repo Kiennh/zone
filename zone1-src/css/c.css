@@ -1,0 +1,10 @@
+
+.clip-svg-inline {
+  -webkit-clip-path: url("#clip-polygon");
+  clip-path: url("#clip-polygon");
+}
+
+.clip-svg {
+  width: 0;
+  height: 0;
+}

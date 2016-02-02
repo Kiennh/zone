@@ -11,3 +11,9 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+bower_components/*
+node_modules/*
+zone1/*
+template/*
+facebook/*

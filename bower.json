@@ -1,0 +1,29 @@
+{
+  "name": "zone",
+  "authors": [
+    "Nguyễn Hữu Kiên <kiennh@vega.com.vn>"
+  ],
+  "description": "My zone application",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "zone"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "angular-facebook": "~0.2.3"
+  }
+}
